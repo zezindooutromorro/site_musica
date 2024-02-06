@@ -1,14 +1,18 @@
-body{
-    background-color: darkgray;
+ body{
+    background-color: darkblue;
 }
 
-h1{
+ h1{
     text-align: center;
     color: aliceblue;
     background-color: black;
 }
 
-h2{
+ h2{
     text-align: left;
     color: aliceblue;
 }
+ audio{
+    align-items: center;
+}
+ 
